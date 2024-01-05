@@ -1,0 +1,19 @@
+{
+  "name": "testerdb",
+  "version": "0.10.0",
+  "description": "Your local friendly database for testing, tutorial and development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "url": "https://github.com/nehalsci/testerdb", 
+    "type": "git" 
+  },
+  "author": {
+    "name": "Nehal",
+    "url": "https://github.com/nehalsci"
+  },
+  "license": "MIT",
+  "private": false
+}
